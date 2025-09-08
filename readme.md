@@ -2,13 +2,13 @@
 ---
 
 ```markdown
-# Real-Time Chat Application 💬
+**Real-Time Chat Application 💬**
 
 A WebSocket-based real-time chat app built with **Python (Flask, Flask-SocketIO, Gunicorn, Eventlet)** and a lightweight **HTML/CSS/JS** frontend.  
 Supports multiple chat rooms, instant message delivery (<200ms), and a simple dark mode toggle.  
 ---
 
-## 🌐 Deployment
+🌐 Deployment
 
 This project is deployed on **Render**.
 👉
@@ -17,7 +17,7 @@ This project is deployed on **Render**.
 
 ---
 
-## ✨ Features
+✨ Features
 - Real-time communication with **Flask-SocketIO + WebSockets**
 - Join/leave multiple rooms dynamically
 - Messages broadcast instantly (<200ms latency)
@@ -28,7 +28,7 @@ This project is deployed on **Render**.
 
 ---
 
-## 🚀 Tech Stack
+🚀 Tech Stack
 - **Backend:** Python, Flask, Flask-SocketIO, Gunicorn, Eventlet  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Database:** SQLite (for storing chat history)  
@@ -39,7 +39,7 @@ This project is deployed on **Render**.
 
 ---
 
-## ⚡ Getting Started (Local Setup)
+⚡ Getting Started (Local Setup)
 
 1. Clone this repository  
    ```bash
