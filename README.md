@@ -9,13 +9,6 @@ Supports multiple chat rooms, instant message delivery (<200ms), and a simple da
 
 ---
 
-## 🌐 Deployment
-
-This project is deployed on Render.
-👉 *(Insert deployment link here)*
-
----
-
 ## ✨ Features
 
 * Real-time communication with **Flask-SocketIO + WebSockets**
