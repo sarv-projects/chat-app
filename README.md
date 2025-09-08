@@ -80,9 +80,4 @@ Backend Developer | AI Enthusiast
 
 ```
 
----
 
-This way the formatting won’t break when viewed on GitHub.  
-
-Do you also want me to drop in the **Markdown snippet for embedding a YouTube video** (so the demo shows inline, not just as a link)?
-```
