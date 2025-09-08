@@ -1,8 +1,8 @@
 
 ---
-
+**Real-Time Chat Application**
 ```markdown
-**Real-Time Chat Application 💬**
+
 
 A WebSocket-based real-time chat app built with **Python (Flask, Flask-SocketIO, Gunicorn, Eventlet)** and a lightweight **HTML/CSS/JS** frontend.  
 Supports multiple chat rooms, instant message delivery (<200ms), and a simple dark mode toggle.  
