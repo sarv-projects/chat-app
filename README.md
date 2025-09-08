@@ -1,23 +1,22 @@
+Here’s a corrected and polished version of your README draft — I fixed the markdown issues (extra fences, misaligned headers, etc.) while keeping your structure intact:
 
 ---
-**Real-Time Chat Application**
-```markdown
 
+````markdown
+# Real-Time Chat Application 💬
 
 A WebSocket-based real-time chat app built with **Python (Flask, Flask-SocketIO, Gunicorn, Eventlet)** and a lightweight **HTML/CSS/JS** frontend.  
 Supports multiple chat rooms, instant message delivery (<200ms), and a simple dark mode toggle.  
----
-
-🌐 Deployment
-
-This project is deployed on Render.    
-👉
 
 ---
 
+## 🌐 Deployment
+This project is deployed on Render.  
+👉 *(Insert deployment link here)*  
+
 ---
 
-✨ Features
+## ✨ Features
 - Real-time communication with **Flask-SocketIO + WebSockets**
 - Join/leave multiple rooms dynamically
 - Messages broadcast instantly (<200ms latency)
@@ -28,7 +27,7 @@ This project is deployed on Render.
 
 ---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 - **Backend:** Python, Flask, Flask-SocketIO, Gunicorn, Eventlet  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Database:** SQLite (for storing chat history)  
@@ -36,10 +35,7 @@ This project is deployed on Render.
 
 ---
 
-
----
-
-⚡ Getting Started (Local Setup)
+## ⚡ Getting Started (Local Setup)
 
 1. Clone this repository  
    ```bash
@@ -63,11 +59,12 @@ This project is deployed on Render.
 
 4. Open in browser → [http://localhost:5000](http://localhost:5000)
 
-
+---
 
 ## 🎥 Demo Video
 
-👉 
+👉 *(Insert video link or embedded GIF of app working here)*
+
 ---
 
 ## 📜 License
@@ -79,7 +76,13 @@ MIT License. Free to use and modify.
 ## 👤 Author
 
 **Sarvesh Bhattacharyya**
+Backend Developer | AI Enthusiast
 
 ```
 
+---
 
+This way the formatting won’t break when viewed on GitHub.  
+
+Do you also want me to drop in the **Markdown snippet for embedding a YouTube video** (so the demo shows inline, not just as a link)?
+```
