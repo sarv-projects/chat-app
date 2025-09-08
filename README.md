@@ -50,7 +50,7 @@ Supports multiple chat rooms, instant message delivery (<200ms), and a simple da
 3. Run the server
 
    ```bash
-   python2 app.py
+   python3 app.py
    ```
 
 ---
