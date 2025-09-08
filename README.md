@@ -10,7 +10,7 @@ Supports multiple chat rooms, instant message delivery (<200ms), and a simple da
 
 🌐 Deployment
 
-This project is deployed on **Render**.
+This project is deployed on Render.    
 👉
 
 ---
