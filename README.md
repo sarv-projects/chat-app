@@ -50,10 +50,8 @@ Supports multiple chat rooms, instant message delivery (<200ms), and a simple da
 3. Run the server
 
    ```bash
-   python app.py
+   python2 app.py
    ```
-
-4. Open in browser → [http://localhost:5000](http://localhost:5000)
 
 ---
 
