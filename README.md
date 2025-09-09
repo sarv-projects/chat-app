@@ -26,7 +26,7 @@ Supports multiple chat rooms, instant message delivery (<200ms), and a simple da
 * **Backend:** Python, Flask, Flask-SocketIO, Gunicorn, Eventlet
 * **Frontend:** HTML, CSS, JavaScript, Bootstrap
 * **Database:** SQLite (for storing chat history)
-* **Deployment:** Render / Railway / Heroku
+
 
 ---
 
