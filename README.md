@@ -55,9 +55,7 @@ Supports multiple chat rooms, instant message delivery (<200ms), and a simple da
 
 ---
 
-## 🎥 Demo Video
 
-👉 *(Insert video link or embedded GIF of app working here)*
 
 ---
 
