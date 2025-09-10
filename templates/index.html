@@ -68,7 +68,7 @@ body.dark-mode #chat-box {
     </div>
 
     <script>
-        const socket = io();
+        const socket = io("https://chat-app-jq0d.onrender.com/",{ transports: ["websocket"] });
         let currentRoom = null;
         let username = null;
 
